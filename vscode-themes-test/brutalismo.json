@@ -1,0 +1,12 @@
+{
+    "workbench.activityBar.location": "top",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.5,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Vesper",
+    "workbench.iconTheme": null,
+    "editor.fontFamily": "'Maple Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace"
+}

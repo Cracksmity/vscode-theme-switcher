@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Nunca subir configuraciones reales ni respaldos locales
+settings.json
+settings.backup.json
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
